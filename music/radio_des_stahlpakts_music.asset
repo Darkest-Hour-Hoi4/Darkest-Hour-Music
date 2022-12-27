@@ -1,0 +1,272 @@
+music = {
+	name = "Du_hast_Gluck_bei_den_Frauen_Bel_Ami_GER"
+	file = "Du_hast_Gluck_bei_den_Frauen_Bel_Ami_GER.ogg"
+}
+music = {
+	name = "In_der_Nacht_ist_der_Mensch_nicht_gern_Alleine_GER"
+	file = "In_der_Nacht_ist_der_Mensch_nicht_gern_Alleine_GER.ogg"
+}
+music = {
+	name = "Ob_Blond_ob_Braun_Ich_liebe_alle_Fraun_GER"
+	file = "Ob_Blond_ob_Braun_Ich_liebe_alle_Fraun_GER.ogg"
+}
+music = {
+	name = "Heute_Nacht_oder_Nie_GER"
+	file = "Heute_Nacht_oder_Nie_GER.ogg"
+}
+music = {
+	name = "Kann_nicht_kussen_ohne_Liebe_GER"
+	file = "Kann_nicht_kussen_ohne_Liebe_GER.ogg"
+}
+music = {
+	name = "Siehst_du_die_Sterne_GER"
+	file = "Siehst_du_die_Sterne_GER.ogg"
+}
+music = {
+	name = "Ich_weiss_viel_von_der_Liebe_GER"
+	file = "Ich_weiss_viel_von_der_Liebe_GER.ogg"
+}
+music = {
+	name = "Wunderbar_wunderbar_wie_du_heute_Tanzt_GER"
+	file = "Wunderbar_wunderbar_wie_du_heute_Tanzt_GER.ogg"
+}
+music = {
+	name = "Du_gehst_durch_all_meine_Traume_GER"
+	file = "Du_gehst_durch_all_meine_Traume_GER.ogg"
+}
+music = {
+	name = "Irgendwo_auf_der_Welt_GER"
+	file = "Irgendwo_auf_der_Welt_GER.ogg"
+}
+music = {
+	name = "Haben_sie_schonmal_im_dunkeln_Gekusst_GER"
+	file = "Haben_sie_schonmal_im_dunkeln_Gekusst_GER.ogg"
+}
+music = {
+	name = "Das_gewisse_Etwas_GER"
+	file = "Das_gewisse_Etwas_GER.ogg"
+}
+music = {
+	name = "Vier_Worter_mocht_ich_dir_jetzt_Sagen_GER"
+	file = "Vier_Worter_mocht_ich_dir_jetzt_Sagen_GER.ogg"
+}
+music = {
+	name = "Ganz_Paris_traumt_von_der_Liebe_GER"
+	file = "Ganz_Paris_traumt_von_der_Liebe_GER.ogg"
+}
+music = {
+	name = "Dein_ist_mein_ganzes_Herz_GER"
+	file = "Dein_ist_mein_ganzes_Herz_GER.ogg"
+}
+music = {
+	name = "Falling_in_Love_Again_GER"
+	file = "Falling_in_Love_Again_GER.ogg"
+}
+music = {
+	name = "Musik_Musik_Musik_GER"
+	file = "Musik_Musik_Musik_GER.ogg"
+}
+music = {
+	name = "Komm_Zuruck_GER"
+	file = "Komm_Zuruck_GER.ogg"
+}
+music = {
+	name = "Im_Leben_geben_alles_Voruber_GER"
+	file = "Im_Leben_geben_alles_Voruber_GER.ogg"
+}
+music = {
+	name = "Kuss_mich_bitte_bitte_kuss_mich_GER"
+	file = "Kuss_mich_bitte_bitte_kuss_mich_GER.ogg"
+}
+music = {
+	name = "Lili_Marlene_GER"
+	file = "Lili_Marlene_GER.ogg"
+}
+music = {
+	name = "Deutschlandlied_GER"
+	file = "Deutschlandlied_GER.ogg"
+}
+music = {
+	name = "Erika_GER"
+	file = "Erika_GER.ogg"
+}
+music = {
+	name = "Wenn_die_Soldaten_GER"
+	file = "Wenn_die_Soldaten.ogg"
+}
+music = {
+	name = "Bomben_auf_Engelland_GER"
+	file = "Bomben_auf_Engelland_GER.ogg"
+}
+music = {
+	name = "Funkerlied_GER"
+	file = "Funkerlied_GER.ogg"
+}
+music = {
+	name = "Westerwaldlied_GER"
+	file = "Westerwaldlied_GER.ogg"
+}
+music = {
+	name = "Ein_Heller_und_ein_Batzen_GER"
+	file = "Ein_Heller_und_ein_Batzen_GER.ogg"
+}
+music = {
+	name = "Lore_Lore_Lore_GER"
+	file = "Lore_Lore_Lore_GER.ogg"
+}
+music = {
+	name = "Schwarzbraun_ist_die_Haselnuss_GER"
+	file = "Schwarzbraun_ist_die_Haselnuss_GER.ogg"
+}
+music = {
+	name = "Frankreichlied_GER"
+	file = "Frankreichlied_GER.ogg"
+}
+music = {
+	name = "In_einem_Polenstadtchen_GER"
+	file = "In_einem_Polenstadtchen_GER.ogg"
+}
+music = {
+	name = "Englandlied_GER"
+	file = "Englandlied_GER.ogg"
+}
+music = {
+	name = "Heut_geht_es_an_Bord_GER"
+	file = "Heut_geht_es_an_Bord_GER.ogg"
+}
+music = {
+	name = "Weit_ist_der_Weg_zuruck_ins_Heimatland_GER"
+	file = "Weit_ist_der_Weg_zuruck_ins_Heimatland_GER.ogg"
+}
+music = {
+	name = "Lied_der_Panzergrenadiere_GER"
+	file = "Lied_der_Panzergrenadiere_GER.ogg"
+}
+music = {
+	name = "Panzerlied_GER"
+	file = "Panzerlied_GER.ogg"
+}
+music = {
+	name = "Drei_Lilien_GER"
+	file = "Drei_Lilien_GER.ogg"
+}
+music = {
+	name = "Alte_Kamaraden_GER"
+	file = "Alte_Kamaraden_GER.ogg"
+}
+music = {
+	name = "Die_Wacht_am_Rhein_GER"
+	file = "Die_Wacht_am_Rhein_GER.ogg"
+}
+music = {
+	name = "Die_Grenzwacht_hielt_im_Osten_GER"
+	file = "Die_Grenzwacht_hielt_im_Osten_GER.ogg"
+}
+music = {
+	name = "Nachts_steht_Hunger_starr_in_unserm_Traum_GER"
+	file = "Nachts_steht_Hunger_starr_in_unserm_Traum_GER.ogg"
+}
+music = {
+	name = "Hinter_den_Bergen_strahlet_die_Sonne_GER"
+	file = "Hinter_den_Bergen_strahlet_die_Sonne_GER.ogg"
+}
+music = {
+	name = "Occhi_Blu_ITA"
+	file = "Occhi_Blu_ITA.ogg"
+}
+music = {
+	name = "Vivere_ITA"
+	file = "Vivere_ITA.ogg"
+}
+music = {
+	name = "Meme_Bianche_ITA"
+	file = "Meme_Bianche_ITA.ogg"
+}
+music = {
+	name = "Resta_con_me_ITA"
+	file = "Resta_con_me_ITA.ogg"
+}
+music = {
+	name = "Giovinezza_ITA"
+	file = "Giovinezza_ITA.ogg"
+}
+music = {
+	name = "Questa_notte_ti_diro_ITA"
+	file = "Questa_notte_ti_diro_ITA.ogg"
+}
+music = {
+	name = "Anna_ITA"
+	file = "Anna_ITA.ogg"
+}
+music = {
+	name = "Tu_solamente_tu_ITA"
+	file = "Tu_solamente_tu_ITA.ogg"
+}
+music = {
+	name = "Reginella_Campagnola_ITA"
+	file = "Reginella_Campagnola_ITA.ogg"
+}
+music = {
+	name = "Un_Tango_per_Te_ITA"
+	file = "Un_Tango_per_Te_ITA.ogg"
+}
+music = {
+	name = "Bella_Ciao_ITA"
+	file = "Bella_Ciao_ITA.ogg"
+}
+music = {
+	name = "Fischia_il_Vento_ITA"
+	file = "Fischia_il_Vento_ITA.ogg"
+}
+music = {
+	name = "Faccetta_Nera_ITA"
+	file = "Faccetta_Nera_ITA.ogg"
+}
+music = {
+	name = "La_Leggenda_del_Piave_ITA"
+	file = "La_Leggenda_del_Piave_ITA.ogg"
+}
+music = {
+	name = "Funiculi_Funicula_ITA"
+	file = "Funiculi_Funicula.ogg"
+}
+music = {
+	name = "Il_Canto_Aviatori_ITA"
+	file = "Il_Canto_Aviatori_ITA.ogg"
+}
+music = {
+	name = "Inno_del_Carrista_ITA"
+	file = "Inno_del_Carrista_ITA.ogg"
+}
+music = {
+	name = "Addio_mia_Bella_Addio_ITA"
+	file = "Addio_mia_Bella_Addio_ITA.ogg"
+}
+music = {
+	name = "Duce_Duce_ITA"
+	file = "Duce_Duce_ITA.ogg"
+}
+music = {
+	name = "Inno_dei_Giovani_Fascisti_ITA"
+	file = "Inno_del_Giovani_Fascisti_ITA.ogg"
+}
+music = {
+	name = "Battotai_JAP"
+	file = "Battotai_JAP.ogg"
+}
+music = {
+	name = "Yuki_no_Shingun_JAP"
+	file = "Yuki_no_Shingun_JAP.ogg"
+}
+music = {
+	name = "Roei_no_Uta_JAP"
+	file = "Roei_no_Uta_JAP.ogg"
+}
+music = {
+	name = "Southern_Expeditionary_Army_Song_JAP"
+	file = "Southern_Expeditionary_Army_Song_JAP.ogg"
+}
+music = {
+	name = "Hohei_no_Honryo_JAP"
+	file = "Hohei_no_Honryo_JAP.ogg"
+}

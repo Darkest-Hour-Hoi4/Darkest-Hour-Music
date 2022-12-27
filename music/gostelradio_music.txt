@@ -1,0 +1,752 @@
+music_station = "DH_gostelradio_station"
+music = {
+	song = "Schaste_Moyo_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Utomlyonnoe_Solntse_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Rio_Rita_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Osen_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "V_Parke_Chair_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Serdtse_Tebe_ne_Hochestya_Pokoya_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Yesti_Mozhesh_Prosti_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Chorniya_Glaza_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Davai_Pozhmyom_Drug_Drugu_Ruki_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Ya_B_Tak_Hotel_Lyubit_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Mne_Beskonechno_Zhal_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Porucheniye_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Sasha_Ty_Pomnish_Nashi_Vstrechi_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Skazhite_Pochemu_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Moya_Marusechka_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "V_Gorodskom_Sadu_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Heart_You_Have_no_Rest_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Wide_is_my_Motherland_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "The_Internationale_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "Soviet_Anthem_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "Workers_Marseillaise_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Warszawianka_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "The_Red_Army_is_the_Strongest_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "The_Partisans_Song_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "The_Sacred_War_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "If_Tomorrow_Brings_War_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "On_the_Road_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Katyusha_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Polyushka_Polye_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "The_Birch_Tree_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Song_of_the_Volga_Boatmen_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "March_of_the_Defenders_of_Moscow_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "March_of_the_Soviet_Tankists_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Kalinka_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Smuglianka_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "We_Are_the_Red_Cavalry_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "The_Sun_Set_Behind_a_Mountain_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Song_of_a_Cavalry_Patrol_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "The_Road_to_Berlin_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				has_war_with = GER
+			}
+		}
+	}
+}
+
+music = {
+	song = "Dark_is_the_Night_SOV"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = SOV
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}

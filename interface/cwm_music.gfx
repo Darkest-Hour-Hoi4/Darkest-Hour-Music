@@ -1,0 +1,25 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_radio_station_cover"
+		textureFile = "gfx/radio_station_cover.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_alliesdh_album_art"
+		textureFile = "gfx/allies_album_art.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_cominterndh_album_art"
+		textureFile = "gfx/comintern_album_art.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_axisdh_album_art"
+		textureFile = "gfx/axis_album_art.dds"
+		noOfFrames = 2
+	}
+}

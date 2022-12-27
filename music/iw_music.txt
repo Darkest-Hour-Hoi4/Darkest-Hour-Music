@@ -1,0 +1,3463 @@
+music_station = "DH_liberty_radio_station"
+music = {
+	song = "Battle_Hymn_of_the_Republic_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Battle_Cry_of_Freedom_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Marching_Through_Georgia_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "When_Johnny_Comes_Marching_Home_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "The_Caissons_Go_Rolling_Along_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "This_is_the_Army_Mr_Jones_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Goodbye_Mama_Im_Off_to_Yokohama_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				has_war_with = JAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "Remember_Pearl_Harbor_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				has_war_with = JAP
+			}
+		}
+	}
+}
+
+music = {
+	song = "Yankee_Doodle_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Stars_and_Stripes_Forever_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "American_Patrol_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Nothing_Can_Stop_the_Army_Air_Corps_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Anchors_Aweigh_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "United_States_Marines_Hymn_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Blood_Upon_the_Risers_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Praise_the_Lord_and_Pass_the_Ammunition_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Boogie_Woogie_Bugle_Boy_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Im_Saving_a_Dime_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "The_Bombardier_Song_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Youre_a_Grand_Old_Flag_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Over_There_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "National_Emblem_March_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Semper_Paratus_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Der_Fuehrers_Face_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				has_war_with = GER
+			}
+		}
+	}
+}
+
+music = {
+	song = "Its_a_Long_Way_to_Tipperary_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "The_Star_Spangled_Banner_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+	}
+}
+
+music = {
+	song = "Lied_Eines_Jungen_Wachtpostens_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Pistol_Packin_Mama_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Yellow_Rose_of_Texas_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+	}
+}
+
+music = {
+	song = "Gelbe_Rose_Dort_in_Texas_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+	}	
+}
+
+music = {
+	song = "Brother_Can_You_Spare_a_Dime_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Pennies_From_Heaven_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "I_Dont_Want_to_Set_the_World_on_Fire_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Bei_Mir_Bist_Du_Schoen_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "You_Are_My_Sunshine_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "South_of_the_Border_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "This_Land_is_Your_Land_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Somewhere_Over_the_Rainbow_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "God_Bless_America_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Pennies_From_Heaven_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "The_Big_Rock_Candy_Mountain_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "White_Christmas_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Stars_of_the_Midnight_Ranges_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Chattanooga_Choo_Choo_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Deep_in_the_Heart_of_Texas_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Paper_Doll_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "When_You_Wish_upon_a_Star_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "A_Zoot_Suit_For_My_Sunday_Gal_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "The_Last_Time_I_Saw_Paris_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				FRA = {
+					has_capitulated = yes
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Coming_in_on_a_Wing_and_a_Prayer_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Little_Bo_Beep_Has_Lost_Her_Jeep_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Way_Back_Home_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Oh_Johnny_Oh_Johnny_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Spurs_That_Jingle_Jangle_Jingle_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Blue_Moon_USA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "The_Biggest_Aspidistra_In_the_World_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Blue_Bird_of_Happiness_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Fanlight_Fanny_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "The_Window_Cleaner_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Harbour_Lights_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Boomps_A_Daisy_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Theres_No_Harm_in_Hoping_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Everything_Stops_for_Tea_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Run_Rabbit_Run_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "The_Lambeth_Walk_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Lets_Have_a_Tiddley_at_the_Milk_Bar_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Love_is_the_Sweetest_Thing_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Aint_it_Grand_to_Be_Blooming_Well_Dead_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "I_Am_the_Very_Model_of_a_Modern_Major_General_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Has_Anybody_Seen_Our_Ship_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Roses_In_December_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Be_Like_the_Kettle_and_Sing_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "The_Generals_Fast_Asleep_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Life_Begins_at_Sweet_Sixteen_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Mad_Dogs_and_Englishmen_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Did_Your_Mother_Come_From_Ireland_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "God_Save_the_King_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+	}
+}
+
+music = {
+	song = "Well_Meet_Again_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Therell_Always_Be_an_England_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Wish_Me_Luck_as_You_Wave_Me_Goodbye_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "The_Spitfire_Song_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Were_Going_to_Hang_Out_the_Washing_on_the_Siegfried_Line_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				has_war_with = GER
+			}
+		}
+	}
+}
+
+music = {
+	song = "Kiss_Me_Goodnight_Sergeant_Major_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "The_British_Grenadiers_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Rule_Britannia_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Dont_Lets_Be_Beastly_to_the_Germans_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				has_war_with = GER
+			}
+		}
+	}
+}
+
+music = {
+	song = "The_White_Cliffs_of_Dover_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Men_of_Harlech_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Imagine_Me_on_the_Maginot_Line_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Heart_of_Oak_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Colonel_Bogey_March_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Its_a_Long_Way_to_Tipperary_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Could_You_Please_Oblige_Us_With_a_Bren_Gun_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "London_Pride_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Hitler_Has_Only_Got_One_Ball_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				has_war_with = GER
+			}
+		}
+	}
+}
+
+music = {
+	song = "Land_of_Hope_and_Glory_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "I_Vow_to_Thee_My_Country_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "When_This_Lousy_War_Is_Over_ENG"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = ENG
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Douce_France_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Venez_Donc_Chez_Nous_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Je_Cherche_un_Millionaire_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Ah_Jaime_Jaime_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Dede_de_Montmartre_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Please_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Sur_les_Quais_du_Vieux_Paris_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Tout_le_Monde_la_Suit_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Les_Belles_Petites_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "La_Madelon_de_la_Victoire_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Jattendrai_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Jai_ta_Main_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Le_Temps_des_Cerises_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Garde_moi_ton_Amour_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Embrasse_Moi_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "La_Crise_est_Finie_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "De_Temps_en_Temps_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "La_Chanson_de_Leau_Rouge_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Pique_la_Baleine_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Maintenant_Je_Sais_cque_Cest_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Je_Vais_au_Zoo_avec_Zizi_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "La_Marseillaise_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Le_Regiment_de_Sambre_et_Meuse_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Marche_Lorraine_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Le_Chant_des_Partisans_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Partant_pour_la_Syrie_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Les_Trompettes_dAida_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Verdun_On_ne_Passe_Pas_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Vous_naurez_pas_lAlsace_et_la_Lorraine_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Paris_pour_un_Beefsteak_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Its_a_Long_Way_to_Tipperary_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "On_ia_Pendre_notre_Ligne_sur_la_Ligne_Siegfried_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Camp_de_Larzac_en_Cartes_Postales_Anciennes_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Le_Reve_Passe_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Chanson_de_lOignon_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Chant_du_Depart_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Le_Chant_des_Girondins_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Les_Africains_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "La_Marche_de_la_Garde_Imperiale_a_Waterloo_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "La_Complainte_du_Partisan_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "La_Strasbourgeoise_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Chant_de_la_Deuxieme_Division_Blindee_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Ceux_du_Maquis_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Rhin_et_Danube_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Cest_une_Lettre_de_France_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+					tag = FFL
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "La_France_de_Demain_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					has_government = authoritarian
+					has_government = fascist
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Marechal_Nous_Voila_FRA"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					tag = FRA
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					has_government = authoritarian
+					has_government = fascist
+				}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Ja_bez_przerwy_smieje_sie_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Ani_ty_ani_ja_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Trzy_Listy_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Dzis_inaczej_trzeba_zyc_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Malenka_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Piekna_ale_zla_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Matador_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Spij_Moje_serce_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Pierwszy_calus_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Zostaka_nam_plosenka_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Pamietam_twoje_oczy_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "We_dwoje_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Znam_cie_ze_snow_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "My_Golden_Baby_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Czerwona_roza_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Kto_usta_twe_calowat_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "Mazurek_Dabrowskiego_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+	}
+}
+
+music = {
+	song = "Hej_sokoly_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Bij_bolszewika_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				has_war_with = SOV
+			}
+		}
+	}
+}
+
+music = {
+	song = "Ciezkie_czasy_legionera_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Szwolezerowie_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Kalina_Malina_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "U_Polski_Bram_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Leguny_w_niebie_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "List_do_cara_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Marsz_I_Korpusu_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Marsz_lotnikow_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "Dnia_pierwszego_wrzesnia_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				has_war_with = GER
+			}
+		}
+	}
+}
+
+music = {
+	song = "Chlopcy_silni_jak_stal_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_capitulated = no
+		}
+	}
+}
+
+music = {
+	song = "Warcza_Karabiny_POL"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				tag = POL
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			has_war = no
+		}
+	}
+}

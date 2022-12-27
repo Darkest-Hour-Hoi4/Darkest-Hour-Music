@@ -1,0 +1,700 @@
+music = {
+	name = "Battle_Hymn_of_the_Republic_USA"
+	file = "Battle_Hymn_of_the_Republic_USA.ogg"
+}
+music = {
+	name = "Battle_Cry_of_Freedom_USA"
+	file = "Battle_Cry_of_Freedom_USA.ogg"
+}
+music = {
+	name = "Marching_Through_Georgia_USA"
+	file = "Marching_Through_Georgia_USA.ogg"
+}
+music = {
+	name = "When_Johnny_Comes_Marching_Home_USA"
+	file = "When_Johnny_Comes_Marching_Home_USA.ogg"
+}
+music = {
+	name = "The_Caissons_Go_Rolling_Along_USA"
+	file = "The_Caissons_Go_Rolling_Along_USA.ogg"
+}
+music = {
+	name = "This_is_the_Army_Mr_Jones_USA"
+	file = "This_is_the_Army_Mr_Jones_USA.ogg"
+}
+music = {
+	name = "Goodbye_Mama_Im_Off_to_Yokohama_USA"
+	file = "Goodbye_Mama_Im_Off_to_Yokohama_USA.ogg"
+}
+music = {
+	name = "Remember_Pearl_Harbor_USA"
+	file = "Remember_Pearl_Harbor_USA.ogg"
+}
+music = {
+	name = "Yankee_Doodle_USA"
+	file = "Yankee_Doodle_USA.ogg"
+}
+music = {
+	name = "Stars_and_Stripes_Forever_USA"
+	file = "Stars_and_Stripes_Forever_USA.ogg"
+}
+music = {
+	name = "American_Patrol_USA"
+	file = "American_Patrol_USA.ogg"
+}
+music = {
+	name = "Nothing_Can_Stop_the_Army_Air_Corps_USA"
+	file = "Nothing_Can_Stop_the_Army_Air_Corps_USA.ogg"
+}
+music = {
+	name = "Anchors_Aweigh_USA"
+	file = "Anchors_Aweigh_USA.ogg"
+}
+music = {
+	name = "United_States_Marines_Hymn_USA"
+	file = "United_States_Marines_Hymn_USA.ogg"
+}
+music = {
+	name = "Blood_Upon_the_Risers_USA"
+	file = "Blood_Upon_the_Risers_USA.ogg"
+}
+music = {
+	name = "Praise_the_Lord_and_Pass_the_Ammunition_USA"
+	file = "Praise_the_Lord_and_Pass_the_Ammunition_USA.ogg"
+}
+music = {
+	name = "Boogie_Woogie_Bugle_Boy_USA"
+	file = "Boogie_Woogie_Bugle_Boy_USA.ogg"
+}
+music = {
+	name = "Im_Saving_a_Dime_USA"
+	file = "Im_Saving_a_Dime_USA.ogg"
+}
+music = {
+	name = "The_Bombardier_Song_USA"
+	file = "The_Bombardier_Song_USA.ogg"
+}
+music = {
+	name = "Youre_a_Grand_Old_Flag_USA"
+	file = "Youre_a_Grand_Old_Flag_USA.ogg"
+}
+music = {
+	name = "Over_There_USA"
+	file = "Over_There_USA.ogg"
+}
+music = {
+	name = "National_Emblem_March_USA"
+	file = "National_Emblem_March_USA.ogg"
+}
+music = {
+	name = "Semper_Paratus_USA"
+	file = "Semper_Paratus_USA.ogg"
+}
+music = {
+	name = "Der_Fuehrers_Face_USA"
+	file = "Der_Fuehrers_Face_USA.ogg"
+}
+music = {
+	name = "Its_a_Long_Way_to_Tipperary_USA"
+	file = "Its_a_Long_Way_to_Tipperary_USA.ogg"
+}
+music = {
+	name = "The_Star_Spangled_Banner_USA"
+	file = "The_Star_Spangled_Banner_USA.ogg"
+}
+music = {
+	name = "Lied_Eines_Jungen_Wachtpostens_USA"
+	file = "Lied_Eines_Jungen_Wachtpostens_USA.ogg"
+}
+music = {
+	name = "Pistol_Packin_Mama_USA"
+	file = "Pistol_Packin_Mama_USA.ogg"
+}
+music = {
+	name = "Yellow_Rose_of_Texas_USA"
+	file = "Yellow_Rose_of_Texas_USA.ogg"
+}
+music = {
+	name = "Gelbe_Rose_Dort_in_Texas_USA"
+	file = "Gelbe_Rose_Dort_in_Texas_USA.ogg"
+}
+music = {
+	name = "Brother_Can_You_Spare_a_Dime_USA"
+	file = "Brother_Can_You_Spare_a_Dime_USA.ogg"
+}
+music = {
+	name = "I_Dont_Want_to_Set_the_World_on_Fire_USA"
+	file = "I_Dont_Want_to_Set_the_World_on_Fire_USA.ogg"
+}
+music = {
+	name = "Bei_Mir_Bist_Du_Schoen_USA"
+	file = "Bei_Mir_Bist_Du_Schoen_USA.ogg"
+}
+music = {
+	name = "You_Are_My_Sunshine_USA"
+	file = "You_Are_My_Sunshine_USA.ogg"
+}
+music = {
+	name = "South_of_the_Border_USA"
+	file = "South_of_the_Border_USA.ogg"
+}
+music = {
+	name = "This_Land_is_Your_Land_USA"
+	file = "This_Land_is_Your_Land_USA.ogg"
+}
+music = {
+	name = "Somewhere_Over_the_Rainbow_USA"
+	file = "Somewhere_Over_the_Rainbow_USA.ogg"
+}
+music = {
+	name = "God_Bless_America_USA"
+	file = "God_Bless_America_USA.ogg"
+}
+music = {
+	name = "Pennies_From_Heaven_USA"
+	file = "Pennies_From_Heaven_USA.ogg"
+}
+music = {
+	name = "The_Big_Rock_Candy_Mountain_USA"
+	file = "The_Big_Rock_Candy_Mountain_USA.ogg"
+}
+music = {
+	name = "White_Christmas_USA"
+	file = "White_Christmas_USA.ogg"
+}
+music = {
+	name = "Stars_of_the_Midnight_Ranges_USA"
+	file = "Stars_of_the_Midnight_Ranges_USA.ogg"
+}
+music = {
+	name = "Chattanooga_Choo_Choo_USA"
+	file = "Chattanooga_Choo_Choo_USA.ogg"
+}
+music = {
+	name = "Deep_in_the_Heart_of_Texas_USA"
+	file = "Deep_in_the_Heart_of_Texas_USA.ogg"
+}
+music = {
+	name = "Paper_Doll_USA"
+	file = "Paper_Doll_USA.ogg"
+}
+music = {
+	name = "When_You_Wish_upon_a_Star_USA"
+	file = "When_You_Wish_upon_a_Star_USA.ogg"
+}
+music = {
+	name = "A_Zoot_Suit_For_My_Sunday_Gal_USA"
+	file = "A_Zoot_Suit_For_My_Sunday_Gal_USA.ogg"
+}
+music = {
+	name = "The_Last_Time_I_Saw_Paris_USA"
+	file = "The_Last_Time_I_Saw_Paris_USA.ogg"
+}
+music = {
+	name = "Coming_in_on_a_Wing_and_a_Prayer_USA"
+	file = "Coming_in_on_a_Wing_and_a_Prayer_USA.ogg"
+}
+music = {
+	name = "Little_Bo_Beep_Has_Lost_Her_Jeep_USA"
+	file = "Little_Bo_Beep_Has_Lost_Her_Jeep_USA.ogg"
+}
+music = {
+	name = "Way_Back_Home_USA"
+	file = "Way_Back_Home_USA.ogg"
+}
+music = {
+	name = "Oh_Johnny_Oh_Johnny_USA"
+	file = "Oh_Johnny_Oh_Johnny_USA.ogg"
+}
+music = {
+	name = "Spurs_That_Jingle_Jangle_Jingle_USA"
+	file = "Spurs_That_Jingle_Jangle_Jingle_USA.ogg"
+}
+music = {
+	name = "Blue_Moon_USA"
+	file = "Blue_Moon_USA.ogg"
+}
+music = {
+	name = "The_Biggest_Aspidistra_In_the_World_ENG"
+	file = "The_Biggest_Aspidistra_In_the_World_ENG.ogg"
+}
+music = {
+	name = "Blue_Bird_of_Happiness_ENG"
+	file = "Blue_Bird_of_Happiness_ENG.ogg"
+}
+music = {
+	name = "Fanlight_Fanny_ENG"
+	file = "Fanlight_Fanny_ENG.ogg"
+}
+music = {
+	name = "The_Window_Cleaner_ENG"
+	file = "The_Window_Cleaner_ENG.ogg"
+}
+music = {
+	name = "Harbour_Lights_ENG"
+	file = "Harbour_Lights_ENG.ogg"
+}
+music = {
+	name = "Boomps_A_Daisy_ENG"
+	file = "Boomps_A_Daisy_ENG.ogg"
+}
+music = {
+	name = "Theres_No_Harm_in_Hoping_ENG"
+	file = "Theres_No_Harm_in_Hoping_ENG.ogg"
+}
+music = {
+	name = "Everything_Stops_for_Tea_ENG"
+	file = "Everything_Stops_for_Tea_ENG.ogg"
+}
+music = {
+	name = "Run_Rabbit_Run_ENG"
+	file = "Run_Rabbit_Run_ENG.ogg"
+}
+music = {
+	name = "The_Lambeth_Walk_ENG"
+	file = "The_Lambeth_Walk_ENG.ogg"
+}
+music = {
+	name = "Lets_Have_a_Tiddley_at_the_Milk_Bar_ENG"
+	file = "Lets_Have_a_Tiddley_at_the_Milk_Bar_ENG.ogg"
+}
+music = {
+	name = "Love_is_the_Sweetest_Thing_ENG"
+	file = "Love_is_the_Sweetest_Thing_ENG.ogg"
+}
+music = {
+	name = "Aint_it_Grand_to_Be_Blooming_Well_Dead_ENG"
+	file = "Aint_it_Grand_to_Be_Blooming_Well_Dead_ENG.ogg"
+}
+music = {
+	name = "I_Am_the_Very_Model_of_a_Modern_Major_General_ENG"
+	file = "I_Am_the_Very_Model_of_a_Modern_Major_General_ENG.ogg"
+}
+music = {
+	name = "Has_Anybody_Seen_Our_Ship_ENG"
+	file = "Has_Anybody_Seen_Our_Ship_ENG.ogg"
+}
+music = {
+	name = "Roses_In_December_ENG"
+	file = "Roses_In_December_ENG.ogg"
+}
+music = {
+	name = "Be_Like_the_Kettle_and_Sing_ENG"
+	file = "Be_Like_the_Kettle_and_Sing_ENG.ogg"
+}
+music = {
+	name = "The_Generals_Fast_Asleep_ENG"
+	file = "The_Generals_Fast_Asleep_ENG.ogg"
+}
+music = {
+	name = "Life_Begins_at_Sweet_Sixteen_ENG"
+	file = "Life_Begins_at_Sweet_Sixteen_ENG.ogg"
+}
+music = {
+	name = "Mad_Dogs_and_Englishmen_ENG"
+	file = "Mad_Dogs_and_Englishmen_ENG.ogg"
+}
+music = {
+	name = "Did_Your_Mother_Come_From_Ireland_ENG"
+	file = "Did_Your_Mother_Come_From_Ireland_ENG.ogg"
+}
+music = {
+	name = "God_Save_the_King_ENG"
+	file = "God_Save_the_King_ENG.ogg"
+}
+music = {
+	name = "Well_Meet_Again_ENG"
+	file = "Well_Meet_Again_ENG.ogg"
+}
+music = {
+	name = "Therell_Always_Be_an_England_ENG"
+	file = "Therell_Always_Be_an_England_ENG.ogg"
+}
+music = {
+	name = "Wish_Me_Luck_as_You_Wave_Me_Goodbye_ENG"
+	file = "Wish_Me_Luck_as_You_Wave_Me_Goodbye_ENG.ogg"
+}
+music = {
+	name = "The_Spitfire_Song_ENG"
+	file = "The_Spitfire_Song_ENG.ogg"
+}
+music = {
+	name = "Were_Going_to_Hang_Out_the_Washing_on_the_Siegfried_Line_ENG"
+	file = "Were_Going_to_Hang_Out_the_Washing_on_the_Siegfried_Line_ENG.ogg"
+}
+music = {
+	name = "Kiss_Me_Goodnight_Sergeant_Major_ENG"
+	file = "Kiss_Me_Goodnight_Sergeant_Major_ENG.ogg"
+}
+music = {
+	name = "The_British_Grenadiers_ENG"
+	file = "The_British_Grenadiers_ENG.ogg"
+}
+music = {
+	name = "Rule_Britannia_ENG"
+	file = "Rule_Britannia_ENG.ogg"
+}
+music = {
+	name = "Dont_Lets_Be_Beastly_to_the_Germans_ENG"
+	file = "Dont_Lets_Be_Beastly_to_the_Germans_ENG.ogg"
+}
+music = {
+	name = "The_White_Cliffs_of_Dover_ENG"
+	file = "The_White_Cliffs_of_Dover_ENG.ogg"
+}
+music = {
+	name = "Men_of_Harlech_ENG"
+	file = "Men_of_Harlech_ENG.ogg"
+}
+music = {
+	name = "Imagine_Me_on_the_Maginot_Line_ENG"
+	file = "Imagine_Me_on_the_Maginot_Line_ENG.ogg"
+}
+music = {
+	name = "Heart_of_Oak_ENG"
+	file = "Heart_of_Oak_ENG.ogg"
+}
+music = {
+	name = "Colonel_Bogey_March_ENG"
+	file = "Colonel_Bogey_March_ENG.ogg"
+}
+music = {
+	name = "Its_a_Long_Way_to_Tipperary_ENG"
+	file = "Its_a_Long_Way_to_Tipperary_ENG.ogg"
+}
+music = {
+	name = "Could_You_Please_Oblige_Us_With_a_Bren_Gun_ENG"
+	file = "Could_You_Please_Oblige_Us_With_a_Bren_Gun_ENG.ogg"
+}
+music = {
+	name = "London_Pride_ENG"
+	file = "London_Pride_ENG.ogg"
+}
+music = {
+	name = "Hitler_Has_Only_Got_One_Ball_ENG"
+	file = "Hitler_Has_Only_Got_One_Ball_ENG.ogg"
+}
+music = {
+	name = "Land_of_Hope_and_Glory_ENG"
+	file = "Land_of_Hope_and_Glory_ENG.ogg"
+}
+music = {
+	name = "I_Vow_to_Thee_My_Country_ENG"
+	file = "I_Vow_to_Thee_My_Country_ENG.ogg"
+}
+music = {
+	name = "When_This_Lousy_War_Is_Over_ENG"
+	file = "When_This_Lousy_War_Is_Over_ENG.ogg"
+}
+music = {
+	name = "Douce_France_FRA"
+	file = "Douce_France_FRA.ogg"
+}
+music = {
+	name = "Venez_Donc_Chez_Nous_FRA"
+	file = "Venez_Donc_Chez_Nous_FRA.ogg"
+}
+music = {
+	name = "Je_Cherche_un_Millionaire_FRA"
+	file = "Je_Cherche_un_Millionaire_FRA.ogg"
+}
+music = {
+	name = "Ah_Jaime_Jaime_FRA"
+	file = "Ah_Jaime_Jaime_FRA.ogg"
+}
+music = {
+	name = "Dede_de_Montmartre_FRA"
+	file = "Dede_de_Montmartre_FRA.ogg"
+}
+music = {
+	name = "Please_FRA"
+	file = "Please_FRA.ogg"
+}
+music = {
+	name = "Sur_les_Quais_du_Vieux_Paris_FRA"
+	file = "Sur_les_Quais_du_Vieux_Paris_FRA.ogg"
+}
+music = {
+	name = "Tout_le_Monde_la_Suit_FRA"
+	file = "Tout_le_Monde_la_Suit_FRA.ogg"
+}
+music = {
+	name = "Les_Belles_Petites_FRA"
+	file = "Les_Belles_Petites_FRA.ogg"
+}
+music = {
+	name = "La_Madelon_de_la_Victoire_FRA"
+	file = "La_Madelon_de_la_Victoire_FRA.ogg"
+}
+music = {
+	name = "Jattendrai_FRA"
+	file = "Jattendrai_FRA.ogg"
+}
+music = {
+	name = "Jai_ta_Main_FRA"
+	file = "Jai_ta_Main_FRA.ogg"
+}
+music = {
+	name = "Le_Temps_des_Cerises_FRA"
+	file = "Le_Temps_des_Cerises_FRA.ogg"
+}
+music = {
+	name = "Garde_moi_ton_Amour_FRA"
+	file = "Garde_moi_ton_Amour_FRA.ogg"
+}
+music = {
+	name = "Embrasse_Moi_FRA"
+	file = "Embrasse_Moi_FRA.ogg"
+}
+music = {
+	name = "La_Crise_est_Finie_FRA"
+	file = "La_Crise_est_Finie_FRA.ogg"
+}
+music = {
+	name = "De_Temps_en_Temps_FRA"
+	file = "De_Temps_en_Temps_FRA.ogg"
+}
+music = {
+	name = "La_Chanson_de_Leau_Rouge_FRA"
+	file = "La_Chanson_de_Leau_Rouge_FRA.ogg"
+}
+music = {
+	name = "Pique_la_Baleine_FRA"
+	file = "Pique_la_Baleine_FRA.ogg"
+}
+music = {
+	name = "Maintenant_Je_Sais_cque_Cest_FRA"
+	file = "Maintenant_Je_Sais_cque_Cest_FRA.ogg"
+}
+music = {
+	name = "Je_Vais_au_Zoo_avec_Zizi_FRA"
+	file = "Je_Vais_au_Zoo_avec_Zizi_FRA.ogg"
+}
+music = {
+	name = "La_Marseillaise_FRA"
+	file = "La_Marseillaise_FRA.ogg"
+}
+music = {
+	name = "Le_Regiment_de_Sambre_et_Meuse_FRA"
+	file = "Le_Regiment_de_Sambre_et_Meuse_FRA.ogg"
+}
+music = {
+	name = "Marche_Lorraine_FRA"
+	file = "Marche_Lorraine_FRA.ogg"
+}
+music = {
+	name = "Le_Chant_des_Partisans_FRA"
+	file = "Le_Chant_des_Partisans_FRA.ogg"
+}
+music = {
+	name = "Partant_pour_la_Syrie_FRA"
+	file = "Partant_pour_la_Syrie_FRA.ogg"
+}
+music = {
+	name = "Les_Trompettes_dAida_FRA"
+	file = "Les_Trompettes_dAida_FRA.ogg"
+}
+music = {
+	name = "Verdun_On_ne_Passe_Pas_FRA"
+	file = "Verdun_On_ne_Passe_Pas_FRA.ogg"
+}
+music = {
+	name = "Vous_naurez_pas_lAlsace_et_la_Lorraine_FRA"
+	file = "Vous_naurez_pas_lAlsace_et_la_Lorraine_FRA.ogg"
+}
+music = {
+	name = "Paris_pour_un_Beefsteak_FRA"
+	file = "Paris_pour_un_Beefsteak_FRA.ogg"
+}
+music = {
+	name = "Its_a_Long_Way_to_Tipperary_FRA"
+	file = "Its_a_Long_Way_to_Tipperary_FRA.ogg"
+}
+music = {
+	name = "On_ia_Pendre_notre_Ligne_sur_la_Ligne_Siegfried_FRA"
+	file = "On_ia_Pendre_notre_Ligne_sur_la_Ligne_Siegfried_FRA.ogg"
+}
+music = {
+	name = "Camp_de_Larzac_en_Cartes_Postales_Anciennes_FRA"
+	file = "Camp_de_Larzac_en_Cartes_Postales_Anciennes_FRA.ogg"
+}
+music = {
+	name = "Le_Reve_Passe_FRA"
+	file = "Le_Reve_Passe_FRA.ogg"
+}
+music = {
+	name = "Chanson_de_lOignon_FRA"
+	file = "Chanson_de_lOignon_FRA.ogg"
+}
+music = {
+	name = "Chant_du_Depart_FRA"
+	file = "Chant_du_Depart_FRA.ogg"
+}
+music = {
+	name = "Le_Chant_des_Girondins_FRA"
+	file = "Le_Chant_des_Girondins_FRA.ogg"
+}
+music = {
+	name = "Les_Africains_FRA"
+	file = "Les_Africains_FRA.ogg"
+}
+music = {
+	name = "La_Marche_de_la_Garde_Imperiale_a_Waterloo_FRA"
+	file = "La_Marche_de_la_Garde_Imperiale_a_Waterloo_FRA.ogg"
+}
+music = {
+	name = "La_Complainte_du_Partisan_FRA"
+	file = "La_Complainte_du_Partisan_FRA.ogg"
+}
+music = {
+	name = "La_Strasbourgeoise_FRA"
+	file = "La_Strasbourgeoise_FRA.ogg"
+}
+music = {
+	name = "Chant_de_la_Deuxieme_Division_Blindee_FRA"
+	file = "Chant_de_la_Deuxieme_Division_Blindee_FRA.ogg"
+}
+music = {
+	name = "Ceux_du_Maquis_FRA"
+	file = "Ceux_du_Maquis_FRA.ogg"
+}
+music = {
+	name = "Rhin_et_Danube_FRA"
+	file = "Rhin_et_Danube_FRA.ogg"
+}
+music = {
+	name = "Cest_une_Lettre_de_France_FRA"
+	file = "Cest_une_Lettre_de_France_FRA.ogg"
+}
+music = {
+	name = "La_France_de_Demain_FRA"
+	file = "La_France_de_Demain_FRA.ogg"
+}
+music = {
+	name = "Marechal_Nous_Voila_FRA"
+	file = "Marechal_Nous_Voila_FRA.ogg"
+}
+music = {
+	name = "Ja_bez_przerwy_smieje_sie_POL"
+	file = "Ja_bez_przerwy_smieje_sie_POL.ogg"
+}
+music = {
+	name = "Der_Fuehrers_Face_USA"
+	file = "Der_Fuehrers_Face_USA.ogg"
+}
+music = {
+	name = "Ani_ty_ani_ja_POL"
+	file = "Ani_ty_ani_ja_POL.ogg"
+}
+music = {
+	name = "Trzy_Listy_POL"
+	file = "Trzy_Listy_POL.ogg"
+}
+music = {
+	name = "Dzis_inaczej_trzeba_zyc_POL"
+	file = "Dzis_inaczej_trzeba_zyc_POL.ogg"
+}
+music = {
+	name = "Malenka_POL"
+	file = "Malenka_POL.ogg"
+}
+music = {
+	name = "Piekna_ale_zla_POL"
+	file = "Piekna_ale_zla_POL.ogg"
+}
+music = {
+	name = "Matador_POL"
+	file = "Matador_POL.ogg"
+}
+music = {
+	name = "Spij_Moje_serce_POL"
+	file = "Spij_Moje_serce_POL.ogg"
+}
+music = {
+	name = "Pierwszy_calus_POL"
+	file = "Pierwszy_calus_POL.ogg"
+}
+music = {
+	name = "Zostaka_nam_plosenka_POL"
+	file = "Zostaka_nam_plosenka_POL.ogg"
+}
+music = {
+	name = "Pamietam_twoje_oczy_POL"
+	file = "Pamietam_twoje_oczy_POL.ogg"
+}
+music = {
+	name = "We_dwoje_POL"
+	file = "We_dwoje_POL.ogg"
+}
+music = {
+	name = "Znam_cie_ze_snow_POL"
+	file = "Znam_cie_ze_snow_POL.ogg"
+}
+music = {
+	name = "My_Golden_Baby_POL"
+	file = "My_Golden_Baby_POL.ogg"
+}
+music = {
+	name = "Czerwona_roza_POL"
+	file = "Czerwona_roza_POL.ogg"
+}
+music = {
+	name = "Kto_usta_twe_calowat_POL"
+	file = "Kto_usta_twe_calowat_POL.ogg"
+}
+music = {
+	name = "Mazurek_Dabrowskiego_POL"
+	file = "Mazurek_Dabrowskiego_POL.ogg"
+}
+music = {
+	name = "Hej_sokoly_POL"
+	file = "Hej_sokoly_POL.ogg"
+}
+music = {
+	name = "Bij_bolszewika_POL"
+	file = "Bij_bolszewika_POL.ogg"
+}
+music = {
+	name = "Ciezkie_czasy_legionera_POL"
+	file = "Ciezkie_czasy_legionera_POL.ogg"
+}
+music = {
+	name = "Szwolezerowie_POL"
+	file = "Szwolezerowie_POL.ogg"
+}
+music = {
+	name = "Kalina_Malina_POL"
+	file = "Kalina_Malina_POL.ogg"
+}
+music = {
+	name = "U_Polski_Bram_POL"
+	file = "U_Polski_Bram_POL.ogg"
+}
+music = {
+	name = "Leguny_w_niebie_POL"
+	file = "Leguny_w_niebie_POL.ogg"
+}
+music = {
+	name = "List_do_cara_POL"
+	file = "List_do_cara_POL.ogg"
+}
+music = {
+	name = "Marsz_I_Korpusu_POL"
+	file = "Marsz_I_Korpusu_POL.ogg"
+}
+music = {
+	name = "Marsz_lotnikow_POL"
+	file = "Marsz_lotnikow_POL.ogg"
+}
+music = {
+	name = "Dnia_pierwszego_wrzesnia_POL"
+	file = "Dnia_pierwszego_wrzesnia_POL.ogg"
+}
+music = {
+	name = "Chlopcy_silni_jak_stal_POL"
+	file = "Chlopcy_silni_jak_stal_POL.ogg"
+}
+music = {
+	name = "Warcza_Karabiny_POL"
+	file = "Warcza_Karabiny_POL.ogg"
+}
